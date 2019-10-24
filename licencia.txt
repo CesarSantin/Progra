@@ -1,0 +1,2 @@
+Puedes consultar la licencia en la URL
+https://opensource.org/licenses/MIT
